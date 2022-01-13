@@ -30,4 +30,6 @@ class MainActivity : AppCompatActivity() {
         return NavigationUI.navigateUp(navController,null)
     }
 
+    //this is a test
+
 }
